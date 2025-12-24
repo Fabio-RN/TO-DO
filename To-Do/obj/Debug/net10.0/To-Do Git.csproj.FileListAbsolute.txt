@@ -1,0 +1,14 @@
+D:\Programación\C#\To-Do Git\bin\Debug\net10.0\To-Do Git.exe
+D:\Programación\C#\To-Do Git\bin\Debug\net10.0\To-Do Git.deps.json
+D:\Programación\C#\To-Do Git\bin\Debug\net10.0\To-Do Git.runtimeconfig.json
+D:\Programación\C#\To-Do Git\bin\Debug\net10.0\To-Do Git.dll
+D:\Programación\C#\To-Do Git\bin\Debug\net10.0\To-Do Git.pdb
+D:\Programación\C#\To-Do Git\obj\Debug\net10.0\To-Do Git.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\C#\To-Do Git\obj\Debug\net10.0\To-Do Git.AssemblyInfoInputs.cache
+D:\Programación\C#\To-Do Git\obj\Debug\net10.0\To-Do Git.AssemblyInfo.cs
+D:\Programación\C#\To-Do Git\obj\Debug\net10.0\To-Do Git.csproj.CoreCompileInputs.cache
+D:\Programación\C#\To-Do Git\obj\Debug\net10.0\To-Do Git.dll
+D:\Programación\C#\To-Do Git\obj\Debug\net10.0\refint\To-Do Git.dll
+D:\Programación\C#\To-Do Git\obj\Debug\net10.0\To-Do Git.pdb
+D:\Programación\C#\To-Do Git\obj\Debug\net10.0\To-Do Git.genruntimeconfig.cache
+D:\Programación\C#\To-Do Git\obj\Debug\net10.0\ref\To-Do Git.dll
